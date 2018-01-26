@@ -48,4 +48,4 @@ async def on_member_join(member):
     msg = 'Bem vindo {}, digite !Ajuda para começar.'.format(member.name)
     await client.send_message(channel, msg)
     
-client.run("NDA1ODMyMDU5Nzk0NDg5MzU1.DUqIIw.wbUhD7FOrM4ohuJVEkFMZS2nmV8")
+client.run("SEGREDO")
